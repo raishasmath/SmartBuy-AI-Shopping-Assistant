@@ -97,7 +97,13 @@ Platform: IBM watsonx Orchestrate
 Version: 1.0.0
 
 Project Type: AI Shopping Assistant
+ 
+ 
+## 📸 Project Screenshots
 
+### SmartBuy – Live Deployment
+
+![SmartBuy Live Deployment](smartbuy_agent.jpeg)
 ---
 
 Built as an AI agent development project to explore prompt engineering, knowledge-based AI, product recommendations and conversational shopping experiences.
